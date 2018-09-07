@@ -1,5 +1,5 @@
 # MyRandomName
-Get a list of surname used in Great Britain between 1800 and 2018 from Oxford Reference.
+Get a list of surname used in Great Britain between 1800 and 2018 from Oxford Reference website.
 
 ## Summary
 
